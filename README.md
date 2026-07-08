@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer based in Pakistan, focused on building **full-stack, production-ready systems** — not tutorials or demos. I work across the entire stack: backend APIs, admin dashboards, mobile apps, and web frontends, and I'm increasingly working on integrating AI/LLM-powered features into real applications.
+I'm a software developer based in Pakistan, focused on building **full-stack, production-ready systems**. I work across the entire stack: backend APIs, admin dashboards, mobile apps, and web frontends, and I'm increasingly working on integrating AI/LLM-powered features into real applications.
 
 ```text
 💼  Open to freelance, contract, and full-time full-stack / AI-integrated dev roles
